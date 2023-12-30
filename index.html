@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gitanoshops</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <div class="wrapper">
+        <aside>
+            <header>
+                <h1 class="logo">TIENDA ONLINE</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i>Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="juegos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Juegos</button>
+                    </li>
+                    <li>
+                        <button id="verduras" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Frutas</button>
+                    </li>
+                    <li>
+                        <button id="frutas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Verduras</button>
+                    </li>
+                    <li><a class="boton-menu btn-carrito" href="./carrito.html">
+                        <i class="bi bi-cart-fill"></i>MiCarrito <span id="numero" class="numone">0</span>
+                    </a>
+                </li>
+                </ul>
+            </nav>
+            <footer>
+                <button class="boton-menu boton-categoria">
+                    <a href="./inicio.html">ir a pagina principal</a>
+                </button>
+                <p class="text-footer"> Inicio Sesion <br> Mantenimiento </p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="title-principal" id="titulo-principal">todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+
+
+            </div>
+        </main>
+
+    </div>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    
+</body>
+</html>

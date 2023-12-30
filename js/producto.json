@@ -1,0 +1,166 @@
+[
+    {
+        "id1": "juego-01",
+        "titulo": "Juego 01",
+        "imagen": "./img/juegos/3.jpg",
+        "categoria": "Juegos",
+        "nombre": "Juegos",
+        "id": "Juegos",
+        "precio": 1000
+    },
+    {
+        "id2": "juego-02",
+        "titulo": "Juego 02",
+        "imagen": "./img/juegos/4.jpg",
+        "categoria": "Juegos" ,
+        "nombre": "Juegos",
+        "id": "juegos",
+        "precio": 1000
+    },
+    {
+        "id3": "juego-03",
+        "titulo": "Juego 03",
+        "imagen": "./img/juegos/5.jpg",
+        "categoria" :"Juegos",
+        "nombre": "Juegos",
+        "id": "juegos",
+        "precio": 1000
+    },
+    {
+        "id4": "juego-04",
+        "titulo": "Juego 04",
+        "imagen": "./img/juegos/7.jpg",
+        "categoria":"Juegos",
+        "nombre": "Juegos",
+        "id": "juegos",
+        "precio": 1000
+    },
+    {
+        "id5": "juego-05",
+        "titulo": "Juego 05",
+        "imagen": "./img/juegos/23.jpg",
+        "categoria":"Juegos",
+        "nombre": "Juegos",
+        "id": "juegos",
+        "precio": 1000
+    },
+    
+    {
+        "id6": "verdura-01",
+        "titulo": "Verdura 01",
+        "imagen": "./img/verduras/2.png",
+        "categoria":"Verduras",
+        "nombre": "Verduras",
+        "id": "verduras",
+        "precio": 1000
+    },
+    {
+        "id7": "verdura-02",
+        "titulo": "Verdura 02",
+        "imagen": "./img/verduras/3.png",
+        "categoria" :"Verduras",
+        "nombre": "Verduras",
+        "id": "verduras",
+        "precio": 1000 
+    },
+    {
+        "id8": "verdura-03",
+        "titulo": "Verdura 03",
+        "imagen": "./img/verduras/pr1.png",
+        "categoria" :"Verduras",
+        "nombre": "Verduras",
+        "id": "verduras",
+        "precio": 1000
+    },
+    {
+        "id9": "verdura-04",
+        "titulo": "Verdura 04",
+        "imagen": "./img/verduras/pr8.png",
+        "categoria" :"Verduras",
+        "nombre": "Verduras",
+        "id": "verduras",
+        "precio": 1000
+    },
+    {
+        "id11": "verdura-05",
+        "titulo": "Verdura 05",
+        "imagen": "./img/verduras/f1.png",
+        "categoria" :"Verduras",
+        "nombre": "Verduras",
+        "id": "verduras",
+        "precio": 1000
+    },
+    {
+        "id12": "verdura-06",
+        "titulo": "Verdura 06",
+        "imagen": "./img/verduras/f4.png",
+        "categoria" :"Verduras",
+        "nombre": "Verduras",
+        "id": "verduras",
+        "precio": 1000
+    },
+    {
+        "id13": "verdura-07",
+        "titulo": "Verdura 07",
+        "imagen": "./img/verduras/10.jpg",
+        "categoria" :"Verduras",
+        "nombre": "Verduras",
+        "id": "verduras",
+        "precio": 1000
+    },
+    {
+        "id14": "verdura-08",
+        "titulo": "Verdura-08",
+        "imagen": "./img/verduras/12.jpg",
+        "categoria" :"Verduras",
+        "nombre": "Verduras",
+        "id": "verduras",
+        "precio": 1000
+    },
+    
+    {
+        "id15": "fruta-01",
+        "titulo": "Fruta 01",
+        "imagen": "./img/frutas/1.png",
+        "categoria" : "Frutas",
+        "nombre": "Frutas",
+        "id": "frutas",
+        "precio": 1000
+    },
+    {
+        "id16": "fruta-02",
+        "titulo": "Fruta 02",
+        "imagen": "./img/frutas/pr3.png",
+        "categoria" :"Frutas",
+        "nombre": "Frutas",
+        "id": "frutas",
+        "precio": 1000
+    },
+    {
+        "id17": "fruta-03",
+        "titulo": "Fruta 03",
+        "imagen": "./img/frutas/pr4.png",
+        "categoria" :"Frutas",
+        "nombre": "Frutas",
+        "id": "frutas",
+        "precio": 1000
+    },
+    {
+        "id18": "fruta-04",
+        "titulo": "Fruta 04",
+        "imagen": "./img/frutas/pr6.png",
+        "categoria" :"Frutas",
+        "nombre": "Frutas",
+        "id": "frutas",
+        "precio": 1000
+    },
+    {
+        "id19": "fruta-05",
+        "titulo": "Fruta 05",
+        "imagen": "./img/frutas/18.jpg",
+        "categoria" :"Frutas",
+        "nombre": "Frutas",
+        "id": "frutas",
+        "precio": 1000
+    }
+    ]
